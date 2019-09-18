@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/dev8ios/WGCommunity"
   # s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
-  s.author           = { "jeikerxiao" => "jeiker@126.com" }
+  s.author           = { "dev8ios" => "iggdev8@gmail.com" }
   s.source           = { :git => "https://github.com/dev8ios/WGCommunit.git", :tag => s.version }
   # s.social_media_url = 'https://twitter.com/NAME'
 
