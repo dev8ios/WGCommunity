@@ -33,6 +33,6 @@ Pod::Spec.new do |s|
   # s.public_header_files = 'Classes/**/*.h'
   s.vendored_frameworks = 'GameCommunitySDK.framework'
   s.frameworks = 'Foundation','WebKit'
-
+  s.libraries = 'c++'
   
 end
