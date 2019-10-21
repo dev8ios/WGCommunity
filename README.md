@@ -20,7 +20,7 @@ WGCommunity is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'WGCommunity'
+pod 'WGCommunity', :git => "https://github.com/dev8ios/WGCommunity.git"
 ```
 
 ## Author
