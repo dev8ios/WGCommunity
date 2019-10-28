@@ -23,6 +23,8 @@ it, simply add the following line to your Podfile:
 pod 'WGCommunity', :git => "https://github.com/dev8ios/WGCommunity.git"
 ```
 
+Online documentation [API Doc](http://wegamers.com/doc/en/html/IOS%20API%20Interface/Getting%20Started.html).
+
 ## Author
 
 huilongchen, Ron.chen@igg.com
